@@ -20,6 +20,6 @@ try:
 except Exception as e:
      print("Error: ", e)     
 
-#assert "IBM Careers" in driver.title, "Test Failed: PAge not found"
+
 
 driver.quit()
